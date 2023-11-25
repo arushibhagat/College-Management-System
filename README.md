@@ -1,4 +1,4 @@
-# College-Management-System
+# College Management System (DBMS)
 Database Management System (DBMS) for College
 
 # Problem Statement:
