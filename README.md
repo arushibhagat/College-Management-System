@@ -15,7 +15,3 @@ c. Develop a web interface to specify the schedule of exams and also show the pe
 d. Develop a web interface for faculty for marks evaluation as well as marks update.
 e. Apart from this, please use your own intuition to add further modules.
 5. Also add indexing concept to enhance the model performance.
-
-Note:
-1. You can use any programming platform to design the mini-project.
-2. The above-stated problem is a raw problem statement which needs some refinement in order to draw the final database model. Therefore, use your intuitions and critical logic thinking in order to satisfy the above-stated conditions.
